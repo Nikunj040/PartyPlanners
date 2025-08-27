@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<h2>Image : </h2>
-		<img src="download.jpeg">
+		<img src="download.jpeg" height="100px" width="100px">
 		
 	</body>
 </html>
