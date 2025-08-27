@@ -1,8 +1,10 @@
-<html> 
-      <head>
-             <title>Nikunj</title>
-      </head>
-      <body>
-            <h1>Nikunj</h1>
-      </body>
+<html>
+	<head>
+		<title>Nikunj & Tanishq</title>
+	</head>
+	<body>
+		<h2>Image : </h2>
+		<img src="">
+		
+	</body>
 </html>
