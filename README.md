@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Resume</title>
+  <title>Nikunj & Tanishq</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -35,10 +35,10 @@
       font-size: 16px;
       color: #555;
     }
-    section {
+    .section {
       margin-bottom: 20px;
     }
-    section h2 {
+    .section h2 {
       font-size: 20px;
       color: #222;
       border-left: 4px solid #0073e6;
@@ -60,33 +60,26 @@
 <body>
   <div class="container">
     <header>
-      <h1>John Doe</h1>
-      <p>Email: johndoe@email.com | Phone: +91 9876543210</p>
+      <h1>Nikunj & Tanishq</h1>
+      <p>Email: Nikunj.Tanishq@email.com | Phone: +91 9876543210</p>
       <p>Address: 123 Main Street, New Delhi, India</p>
     </header>
 
-    <section class="info">
       <h2>Career Objective</h2>
       <p>To secure a challenging position where I can effectively contribute my skills and grow professionally.</p>
-    </section>
 
-    <section class="education">
       <h2>Education</h2>
       <ul>
         <li><b>Bachelor of Technology in Computer Science</b> - XYZ University (2020 - 2024)</li>
         <li><b>Higher Secondary School</b> - ABC School (2018 - 2020)</li>
       </ul>
-    </section>
 
-    <section class="experience">
       <h2>Work Experience</h2>
       <ul>
         <li><b>Intern - Web Developer</b> at Tech Solutions (June 2023 - Aug 2023)</li>
         <li><b>Freelance Graphic Designer</b> (2021 - Present)</li>
       </ul>
-    </section>
 
-    <section class="skills">
       <h2>Skills</h2>
       <ul>
         <li>HTML, CSS, JavaScript</li>
@@ -94,7 +87,6 @@
         <li>Digital Marketing</li>
         <li>Teamwork & Communication</li>
       </ul>
-    </section>
   </div>
 </body>
 </html>
